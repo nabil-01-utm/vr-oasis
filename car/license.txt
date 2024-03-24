@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crawler transporter ГТСМ
+* source:	https://sketchfab.com/3d-models/crawler-transporter-128f2a83a1e14c2199752bc2c751d6ad
+* author:	kr8ndall (https://sketchfab.com/kr8ndall)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crawler transporter ГТСМ" (https://sketchfab.com/3d-models/crawler-transporter-128f2a83a1e14c2199752bc2c751d6ad) by kr8ndall (https://sketchfab.com/kr8ndall) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
