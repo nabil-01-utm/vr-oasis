@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desert House
+* source:	https://sketchfab.com/3d-models/desert-house-0d7c3e2ab66a4adfa72cb3e2065582f3
+* author:	Liron (https://sketchfab.com/LironHero)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desert House" (https://sketchfab.com/3d-models/desert-house-0d7c3e2ab66a4adfa72cb3e2065582f3) by Liron (https://sketchfab.com/LironHero) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
