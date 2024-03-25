@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arabian market
+* source:	https://sketchfab.com/3d-models/arabian-market-5336687bb3014f64833f86c0ab3238d5
+* author:	Jack.courtchandler (https://sketchfab.com/Jack.courtchandler)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arabian market" (https://sketchfab.com/3d-models/arabian-market-5336687bb3014f64833f86c0ab3238d5) by Jack.courtchandler (https://sketchfab.com/Jack.courtchandler) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
